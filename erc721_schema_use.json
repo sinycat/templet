@@ -16,5 +16,15 @@
 "trait_type": "Constitution",
 "value": 2
 }
-]
+],
+  "properties": {
+        "name": {
+            "type": "string",
+            "description": "Identifies aaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes bbbbbbbbbbbbbbbbbbbbbbbb"
+        }
+    }
 }
