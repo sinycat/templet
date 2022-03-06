@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "NumberOne"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes cccccccccccccccccccccccccc"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/sinycat/imgs/blob/main/emoj1.jpg"
+        }
+    }
+}
